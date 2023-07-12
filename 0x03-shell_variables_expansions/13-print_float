@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%f\n" $NUM
+printf "%8.3f\n" $NUM
